@@ -1,0 +1,21 @@
+version: '3'
+services:
+    rasa:
+      container_name: "backend_rasa_server"
+      user: root
+      build: 
+        context:  .
+      volumes:
+      - "./:/app"
+      ports: 
+        - "4005:4005"
+    action_server:
+      container_name: "backend_action_server"
+      build: 
+        context: actions
+      volumes:
+        - ./actions:/app/actions
+        - ./data:/app/data
+      ports:
+        - 4055:4055
+      env_file: ".env"
