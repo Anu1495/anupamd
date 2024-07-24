@@ -1,0 +1,9 @@
+langchain
+openai
+python-dotenv
+faiss-cpu
+dateparser
+tiktoken
+unstructured
+boto3
+pyodbc
