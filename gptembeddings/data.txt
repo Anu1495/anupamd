@@ -1,0 +1,26 @@
+Questions	Answers
+What types of rooms do you offer?	King Rooms, Queen Rooms, Twin Rooms, Family Rooms, Suites
+Do you have rooms with a balcony?	Yes, we have rooms with balconies. These rooms are available on a limited basis, so please book early if you're interested.
+I'm a platinum member, can I get a free upgrade?	Yes, as a platinum member, you are eligible for a free upgrade to a larger room, subject to availability.
+What are the room sizes?	Our rooms range in size from 20 square meters to 45 square meters.
+What are the prices of the rooms?	Room prices vary depending on the type of room and the date of your stay. Please visit our website to see current rates.
+What is the cancellation policy?	Our cancellation policy is 24 hours prior to arrival for a full refund. If you cancel after 24 hours, you will be charged for one night's stay.
+What amenities do you offer?	We offer a variety of amenities, including: Free Wi-Fi, Air conditioning, Flat-screen TV, Minibar, Coffee maker, Hair dryer, Iron and ironing board, Wake-up service
+Does the hotel have free Wifi?	Yes, we have free Wi-Fi throughout the hotel.
+At what time can we check into our room?	Check-in time is 3:00 PM.
+Can we book early check in?	Early check-in is available on a case-by-case basis, subject to availability. Please contact the hotel in advance to inquire about early check-in.
+What is the checkout time?	Checkout time is 11:00 AM. 
+Can I keep my room after the standard check out time?	Yes, you can keep your room for a late check-out until 1pm for a fee of £25.
+Is there Wi-Fi in every room?	Yes, there is free Wi-Fi in every room.
+Is there a breakfast included in our stay? If so, at what time is it served?	Breakfast is not included in our stay, but it is available for £15 per person. It is served from 6:30am to 11:00am.
+How much does breakfast cost?	Breakfast is £15 per person.
+Can breakfast be booked on the day or in advance?	Breakfast can be booked on the day or in advance.
+Is there a restaurant on location?	Yes, there is a restaurant on location called The Churchill. It serves modern British cuisine.
+Do your rooms include a workspace?	Yes, all of our rooms include a workspace with a desk and chair.
+Is there an elevator in the hotel?	Yes, there is an elevator in the hotel.
+Where can we park our vehicle?	There is a car park on-site for a fee of £25 per day.
+What is included in our rooms?	Our rooms include a king-size bed, a workspace, a flat-screen TV, free Wi-Fi, and a minibar.
+Can we bring our pets and is there an additional charge?	Yes, you can bring your pets for an additional charge of £25 per night.
+Do you provide baby cots and is there a charge?	Yes, we provide baby cots for a charge of £10 per night.
+Can I request an additional bed for a third person in a double occupancy room? How much will it cost?	Yes, you can request an additional bed for a third person in a double occupancy room. The cost is £50 per night.
+When will you charge my card?	We will charge your card upon check-in.

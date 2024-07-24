@@ -1,0 +1,25 @@
+#### This file contains tests to evaluate that your bot behaves as expected.
+#### If you want to learn more, please see the docs: https://rasa.com/docs/rasa/testing-your-assistant
+
+stories:
+- story: happy path 1
+  steps:
+  - user: |
+      hello there!
+    intent: out_of_scope
+  - action: action_gpt3_fallback
+  - user: |
+      I want to book a room
+    intent: out_of_scope
+  - action: action_gpt3_fallback
+
+- story: happy path 2
+  steps:
+  - user: |
+      hi
+    intent: out_of_scope
+  - action: action_gpt3_fallback
+  - user: |
+      bye
+    intent: bye
+  - action: utter_bye
