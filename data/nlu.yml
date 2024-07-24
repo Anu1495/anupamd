@@ -1,0 +1,16 @@
+version: "3.1"
+
+nlu:
+- intent: out_of_scope
+  examples: |
+    - Hi
+    - How are you
+    - Hello
+    - Hey
+    
+
+- intent: bye
+  examples: |
+    - Bye
+    - Goodbye
+    - Talk to you later
